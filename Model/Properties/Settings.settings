@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Model.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DP" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="V" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="T" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="SS" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="E" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="PT" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="PS" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="PD" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="DD" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="P0" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="P2" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="P3" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="U" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="POZNEK" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="RT" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="POVRCH" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
